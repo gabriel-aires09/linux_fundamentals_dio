@@ -1,6 +1,6 @@
 # DIO - LInux Fundamentals
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0608905a-201f-462d-bf09-8e1a011691ca/490b8d1a-1428-4ea2-809c-65420bacd69b/image.png)
+![image](https://github.com/user-attachments/assets/6b84eb83-e1da-4819-9e61-af5063087a2a)
 
 Repositório criado para o curso de Linux Fundamentals da Dio. O objetivo deste código em Shell Script é realizar as seguintes operações
 
@@ -11,3 +11,5 @@ Repositório criado para o curso de Linux Fundamentals da Dio. O objetivo deste 
 - Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório;
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 - Subir arquivo de script criado para a sua conta no GitHub.
+
+Para criação dos grupos, diretorios e usuários. Utilizei arrays e loops for. Não era necessário, mas queria aprender aprender a como utilizar essas estruturas no shell script. 
