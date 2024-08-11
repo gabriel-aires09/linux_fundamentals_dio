@@ -1,4 +1,4 @@
-# DIO - LInux Fundamentals
+# DIO - Linux Fundamentals
 
 ![image](https://github.com/user-attachments/assets/6b84eb83-e1da-4819-9e61-af5063087a2a)
 
@@ -12,4 +12,4 @@ Repositório criado para o curso de Linux Fundamentals da Dio. O objetivo deste 
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 - Subir arquivo de script criado para a sua conta no GitHub.
 
-Para criação dos grupos, diretorios e usuários. Utilizei arrays e loops for. Não era necessário, mas queria aprender aprender a como utilizar essas estruturas no shell script. 
+Para criação dos grupos, diretorios e usuários utilizei arrays e loops for. Não era necessário, mas queria aprender aprender a como utilizar essas estruturas no shell script. 
